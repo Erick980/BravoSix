@@ -1,0 +1,112 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "John Price",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Capitão",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\001.webp"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Simon 'Fantasma' Riley",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Tenente",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\002.webp"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Kyle 'Gaz' Garrick",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Sargento",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\003.webp"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Kate Laswell",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Informante",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\004.webp"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Nicolau",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Soldado",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\005.webp"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Farah Karim",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Soldado",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\006.webp"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Alex Keller",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Soldado",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\007.webp"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Alejandro Vargas",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Coronel",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\008.webp"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Rodolfo Parra",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Soldado",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\009.webp"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Shepherd",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "General",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\010.webp"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Jhonny 'Soap' MacTavish",
+    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Função": "Sargento",
+    "Sexo": [ "Masculino" ] ,
+    "Altura": 1.88,
+    "Peso": 93,
+    "Imagem": "\\img\\agentes\\011.webp"
+  }
+]

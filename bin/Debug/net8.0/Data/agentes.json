@@ -1,0 +1,232 @@
+﻿[
+  {
+    "Numero": 1,
+    "Nome": "Brimstone",
+    "Descricao": "Vindo diretamente dos EUA, o arsenal orbital do Brimstone garante que o esquadrão dele sempre esteja em vantagem. Sua capacidade de oferecer utilitários com precisão e segurança faz dele um comandante inigualável na linha de frente.",
+    "Função": "Controlador",
+    "Classe": [ "Controlador" ] ,
+    "Altura": 0.7,
+    "Peso": 6.9,
+    "Imagem": "\\img\\agentes\\001.webp"
+  },
+  {
+    "Numero": 2,
+    "Nome": "Phoenix",
+    "Descricao": "Chegando com tudo diretamente do Reino Unido, o poder estelar de Phoenix reluz em seu estilo de luta, incendiando o campo de batalha com luz e estilo. Tendo ajuda ou não, ele entra na luta como e quando achar que deve.",
+    "Função": "Duelista",
+    "Classe": [ "Duelista" ],
+    "Altura": 1,
+    "Peso": 13,
+    "Imagem": "\\img\\agentes\\002.webp"
+  },
+  {
+    "Numero": 3,
+    "Nome": "Sage",
+    "Descricao": "Como uma verdadeira fortaleza chinesa, Sage traz segurança para si mesma e para a equipe aonde quer que vá. Capaz de reviver aliados e rechaçar investidas agressivas, ela oferece um centro de calmaria em meio ao caos da batalha.",
+    "Função": "Sentinela",
+    "Classe": [ "Planta", "Venenoso" ],
+    "Altura": 2,
+    "Peso": 100,
+    "Imagem": "\\img\\agentes\\003.webp"
+  },
+  {
+    "Numero": 4,
+    "Nome": "Sova",
+    "Descricao": "Nascido sob o eterno inverno das tundras russas, Sova rastreia, encontra e elimina inimigos com eficiência e precisão implacáveis. Seu arco personalizado e suas habilidades inigualáveis de reconhecimento garantem que nenhuma presa escape.",
+    "Função": "Iniciador",
+    "Classe": [ "Fogo" ],
+    "Altura": 0.6,
+    "Peso": 8.5,
+    "Imagem": "\\img\\agentes\\004.webp"
+  },
+  {
+    "Numero": 5,
+    "Nome": "Viper",
+    "Descricao": "Viper, a química dos Estados Unidos, emprega uma variedade de dispositivos químicos venenosos para controlar o campo de batalha e prejudicar a visão do inimigo. Se as toxinas não matarem a presa, seus jogos mentais certamente o farão.",
+    "Função": "Controlador",
+    "Classe": [ "Fogo" ],
+    "Altura": 1.1,
+    "Peso": 19,
+    "Imagem": "\\img\\agentes\\005.webp"
+  },
+  {
+    "Numero": 6,
+    "Nome": "Cypher",
+    "Descricao": "Cypher, um vendedor de informações do Marrocos, é uma verdadeira rede de vigilância de um homem só que fica de olho em cada movimento dos inimigos. Nenhum segredo está a salvo. Nenhuma manobra passa despercebida. Cypher está sempre vigiando.",
+    "Função": "Sentinela",
+    "Classe": [ "Fogo", "Voador" ],
+    "Altura": 1.7,
+    "Peso": 90.5,
+    "Imagem": "\\img\\agentes\\006.webp"
+  },
+  {
+    "Numero": 7,
+    "Nome": "Reyna",
+    "Descricao": "Criada no coração do México, Reyna domina o combate individual, destacando-se a cada abate efetuado. Sua capacidade só é limitada por sua própria perícia, tornando-a bastante dependente de desempenho.",
+    "Função": "Duelista",
+    "Classe": [ "Água" ],
+    "Altura": 0.5,
+    "Peso": 9,
+    "Imagem": "\\img\\agentes\\007.webp"
+  },
+  {
+    "Numero": 8,
+    "Nome": "Killjoy",
+    "Descricao": "Killjoy, uma alemã genial, defende posições-chave no campo de batalha facilmente com seu arsenal de invenções. Se o dano causado por seu equipamento não der cabo dos inimigos, os efeitos negativos de seus queridos robôs darão conta do recado.",
+    "Função": "Sentinela",
+    "Classe": [ "Água" ],
+    "Altura": 1,
+    "Peso": 22.5,
+    "Imagem": "\\img\\agentes\\008.webp"
+  },
+  {
+    "Numero": 9,
+    "Nome": "Breach",
+    "Descricao": "Breach, o homem-biônico sueco, dispara poderosos jatos cinéticos para forçar a abertura de um caminho pelo território inimigo. O dano e a interrupção que ele causa garantem que nenhuma luta seja justa.",
+    "Função": "Iniciador",
+    "Classe": [ "Água" ],
+    "Altura": 1.6,
+    "Peso": 85.5,
+    "Imagem": "\\img\\agentes\\009.webp"
+  },
+  {
+    "Numero": 10,
+    "Nome": "Omen",
+    "Descricao": "Omen, uma lembrança fantasmagórica, caça nas sombras. Ele cega os inimigos, teleporta-se pelo campo e deixa a paranoia assumir o controle enquanto o adversário tenta descobrir de onde virá seu próximo ataque.",
+    "Função": "Controlador",
+    "Classe": [ "Inseto" ],
+    "Altura": 0.3,
+    "Peso": 2.9,
+    "Imagem": "\\img\\agentes\\010.webp"
+  },
+  {
+    "Numero": 11,
+    "Nome": "Jett",
+    "Descricao": "Representando a Coreia do Sul, sua terra natal, Jett tem um estilo de luta ágil e evasivo que permite que ela assuma riscos como ninguém. Ela corre em meio a qualquer confronto, cortando os inimigos antes mesmo que eles percebam quem ou o que os atingiu.",
+    "Função": "Duelista",
+    "Classe": [ "Inseto" ],
+    "Altura": 0.7,
+    "Peso": 9.9,
+    "Imagem": "\\img\\agentes\\011.webp"
+  },
+  {
+    "Numero": 12,
+    "Nome": "Raze",
+    "Descricao": "Raze chega do Brasil com uma explosão de carisma e armas enormes. Com seu estilo de jogo \"porradeiro\", ela é craque em desentocar inimigos entrincheirados e limpar espaços apertados com uma bela dose de BUUUM!",
+    "Função": "Duelista",
+    "Classe": [ "Inseto", "Voador" ],
+    "Altura": 1.1,
+    "Peso": 32,
+    "Imagem": "\\img\\agentes\\012.webp"
+  },
+  {
+    "Numero": 13,
+    "Nome": "Skye",
+    "Descricao": "Mandando um salve direto da Austrália, Skye e sua equipe de feras desbravam territórios hostis. Com seus poderes de cura e suas criações que partem pra cima dos inimigos, qualquer equipe ficará mais forte e mais segura tendo Skye como aliada.",
+    "Função": "Iniciador",
+    "Classe": [ "Inseto", "Venenoso" ],
+    "Altura": 0.3,
+    "Peso": 3.2,
+    "Imagem": "\\img\\agentes\\013.webp"
+  },
+  {
+    "Numero": 14,
+    "Nome": "Yoru",
+    "Descricao": "Yoru, nativo do Japão, abre fendas na realidade para infiltrar as linhas inimigas sem ser visto. Ele usa tanto artimanhas quanto táticas agressivas, e os alvos são abatidos sem saber de onde o ataque veio.",
+    "Função": "Duelista",
+    "Classe": [ "Inseto", "Venenoso" ],
+    "Altura": 0.6,
+    "Peso": 10,
+    "Imagem": "\\img\\agentes\\014.webp"
+  },
+  {
+    "Numero": 15,
+    "Nome": "Astra",
+    "Descricao": "Astra, a Agente ganense, utiliza energias cósmicas para moldar o campo de batalha a seu bel-prazer. Com total domínio da sua forma astral e um talento estratégico nato, ela está sempre anos-luz à frente dos inimigos.",
+    "Função": "Controlador",
+    "Classe": [ "Inseto", "Venenoso" ],
+    "Altura": 1,
+    "Peso": 29.5,
+    "Imagem": "\\img\\agentes\\015.webp"
+  },
+  {
+    "Numero": 16,
+    "Nome": "KAY/O",
+    "Descricao": "KAY/O é uma máquina de guerra construída com um único propósito: neutralizar Radiantes. Ele é capaz de Suprimir habilidades inimigas, anulando a capacidade de contra-ataque dos adversários e dando a si e a seus aliados uma vantagem essencial em combate.",
+    "Função": "Iniciador",
+    "Classe": [ "Normal", "Voador" ],
+    "Altura": 0.3,
+    "Peso": 0.5,
+    "Imagem": "\\img\\agentes\\016.webp"
+  },
+  {
+    "Numero": 17,
+    "Nome": "Chamber",
+    "Descricao": "Bem-vestido e armado até os dentes, o criador de armas francês Chamber coloca os inimigos para correr com precisão mortal. Use e abuse do arsenal personalizado dele para segurar posições e abater inimigos de longe, criando a defesa perfeita para qualquer plano.",
+    "Função": "Sentinela",
+    "Classe": [ "Normal", "Voador" ],
+    "Altura": 1.1,
+    "Peso": 30,
+    "Imagem": "\\img\\agentes\\017.webp"
+  },
+  {
+    "Numero": 18,
+    "Nome": "Neon",
+    "Descricao": "Neon, nossa Agente filipina, avança em velocidades incríveis, descarregando surtos de radiância bioelétrica tão rapidamente quanto seu corpo consegue gerá-los. Ela corre à frente para pegar os inimigos de surpresa, abatendo-os mais rápido do que um raio.",
+    "Função": "Duelista",
+    "Classe": [ "Normal", "Voador" ],
+    "Altura": 1.5,
+    "Peso": 39.5,
+    "Imagem": "\\img\\agentes\\018.webp"
+  },
+  {
+    "Numero": 19,
+    "Nome": "Fade",
+    "Descricao": "Fade, uma caçadora de recompensas turca, usa o poder dos pesadelos para capturar os segredos dos inimigos. Personificando o próprio terror, ela persegue os alvos e revela seus medos mais profundos para, depois, destruí-los na escuridão.",
+    "Função": "Iniciador",
+    "Classe": [ "Normal" ],
+    "Altura": 0.3,
+    "Peso": 3.5,
+    "Imagem": "\\img\\agentes\\019.webp"
+  },
+  {
+    "Numero": 20,
+    "Nome": "Harbor",
+    "Descricao": "Vindo do litoral indiano, Harbor entra em campo com a força da tormenta, empunhando tecnologia ancestral com domínio sobre a água. Ele libera corredeiras espumantes e ondas esmagadoras para proteger seus aliados ou atacar aqueles que se opõem a ele.",
+    "Função": "Controlador",
+    "Classe": [ "Normal" ],
+    "Altura": 0.7,
+    "Peso": 18.5,
+    "Imagem": "\\img\\agentes\\020.webp"
+  },
+  {
+    "Numero": 21,
+    "Nome": "Gekko",
+    "Descricao": "Gekko, de Los Angeles, lidera um grupo muito unido de criaturas caóticas. Seus amigos atropelam tudo, tirando os inimigos do caminho. Depois, Gekko corre atrás deles para reagrupá-los e reiniciar o processo.",
+    "Função": "Iniciador",
+    "Classe": [ "Normal", "Voador" ],
+    "Altura": 0.3,
+    "Peso": 2,
+    "Imagem": "\\img\\agentes\\021.webp"
+  },
+  {
+    "Numero": 22,
+    "Nome": "Deadlock",
+    "Descricao": "A agente norueguesa Deadlock posiciona uma gama de nanofios de alta tecnologia para proteger o campo de batalha até mesmo do ataque mais letal. Ninguém escapa do seu olhar vigilante. Ninguém sobrevive à sua ferocidade implacável.",
+    "Função": "Sentinela",
+    "Classe": [ "Normal", "Voador" ],
+    "Altura": 1.2,
+    "Peso": 38,
+    "Imagem": "\\img\\agentes\\022.webp"
+  },
+  {
+    "Numero": 23,
+    "Nome": "ISO",
+    "Descricao": "Iso é um mercenário chinês que entra em estado de fluxo para desmantelar os oponentes. Ele reconfigura a energia do ambiente para se proteger de balas e avança totalmente focado em direção ao próximo duelo até a morte.",
+    "Função": "Duelista",
+    "Classe": [ "Venenoso" ],
+    "Altura": 2,
+    "Peso": 6.9,
+    "Imagem": "\\img\\agentes\\023.webp"
+  }
+]

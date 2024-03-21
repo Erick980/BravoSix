@@ -1,0 +1,20 @@
+
+
+.card img {
+  /* background-color: none !important; */
+}
+
+.card:hover {
+  border: 3px solid red;
+  transform: scale(1.15);
+  transition: 1s;
+  z-index: 1000;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.agent-image {
+  height: 600px !important;
+}

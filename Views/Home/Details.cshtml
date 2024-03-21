@@ -1,0 +1,52 @@
+﻿@model BravoSix.Models.DetailsVM
+@{
+    ViewData["Title"] = @Model.Atual.Nome;
+
+    string Cor(string nome)
+    {
+        return @Model.Funcoes.Where(f => f.Nome == nome).Select(f => f.Cor).FirstOrDefault();
+    }
+    
+}
+
+<section class="pt-5 container">
+    <div class="row">
+        <div class="col text-center">
+            @if (@Model.Anterior != null) 
+            {
+                <a asp-action="Details" asp-route-id="@Model.Anterior.Numero" class="btn btn-lg btn-outline-dark">@Model.Anterior.Nome @Model.Anterior.Numero.ToString("000")</a>
+            }
+
+        </div>
+        <div class="col text-center">
+            <h1 class="fs-1">@Model.Atual.Nome <span class="fs-2 text-secondary">@Model.Atual.Numero.ToString("000")</span></h1>
+        </div>
+        <div class="col text-center">
+            @if (@Model.Proximo != null) 
+            {
+                <a asp-action="Details" asp-route-id="@Model.Proximo.Numero" class="btn btn-lg btn-outline-dark">@Model.Proximo.Nome @Model.Proximo.Numero.ToString("000")</a>
+            }
+            
+        </div>
+    </div>
+
+    <div class="row mt-3">
+        <div class=" col-lg-5 p-0">
+            <img class="agent-image img-fluid cursor-pointer" src="@Model.Atual.Imagem" alt="@Model.Atual.Nome">
+        </div>
+        <div class="col-lg-7 fs-5 mt-4">
+            <p class="mb-3"><strong>Descrição:</strong> @Model.Atual.Descricao</p>
+            <p class="mb-3"><strong>Função:</strong> @Model.Atual.Função</p>
+            @* <p class="mb-3"><strong>Altura:</strong> @Model.Atual.Altura</p>
+            <p class="mb-3"><strong>Peso:</strong> @Model.Atual.Peso</p> *@
+            <p class="fw-bold">Tipo</p>
+            <div class="btn-group">
+                @foreach(var tipo in Model.Atual.Classe)
+                {      
+                    <a href="#" class="btn btn-lg text-white" style="background-color: @Cor(tipo)">@tipo</a>
+                }
+                
+            </div>
+        </div>
+    </div>
+</section>
