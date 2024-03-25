@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Valorant/1.0.0": {
+      "BravoSix/1.0.0": {
         "runtime": {
-          "Valorant.dll": {}
+          "BravoSix.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Valorant/1.0.0": {
+    "BravoSix/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

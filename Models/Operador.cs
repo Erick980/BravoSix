@@ -2,7 +2,7 @@
 
 namespace BravoSix.Models
 {
-    public class Agente
+    public class Operador
     {
         public int  Numero { get; set; }
         public string Nome { get; set; }
@@ -13,7 +13,7 @@ namespace BravoSix.Models
         public double Peso { get; set; }
         public string Imagem { get; set; }
 
-        public Agente()
+        public Operador()
         {
             Classe = new();
         }

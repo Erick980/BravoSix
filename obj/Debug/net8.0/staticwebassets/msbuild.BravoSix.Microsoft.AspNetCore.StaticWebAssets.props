@@ -2,9 +2,9 @@
   <ItemGroup>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\css\site.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>css/site.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -18,9 +18,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>favicon.ico</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -34,9 +34,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\001.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/001.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -50,9 +50,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\002.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/002.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -66,9 +66,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\003.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/003.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -82,9 +82,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\004.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/004.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -98,9 +98,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\005.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/005.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -114,9 +114,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\006.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/006.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -130,9 +130,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\007.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/007.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -146,9 +146,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\008.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/008.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -162,9 +162,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\009.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/009.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -178,9 +178,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\010.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/010.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -194,9 +194,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\011.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/011.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -210,9 +210,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\012.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/012.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -226,9 +226,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\013.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/013.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -242,9 +242,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\014.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/014.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -258,9 +258,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\015.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/015.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -274,9 +274,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\016.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/016.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -290,9 +290,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\017.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/017.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -306,9 +306,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\018.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/018.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -322,9 +322,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\019.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/019.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -338,9 +338,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\020.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/020.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -354,9 +354,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\021.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/021.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -370,9 +370,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\022.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/022.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -386,9 +386,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\023.webp))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/023.webp</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -402,9 +402,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\001\001-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/001/001-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -418,9 +418,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\001\001-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/001/001-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -434,9 +434,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\001\001-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/001/001-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -450,9 +450,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\001\001-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/001/001-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -466,9 +466,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\002\002-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/002/002-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -482,9 +482,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\002\002-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/002/002-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -498,9 +498,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\002\002-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/002/002-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -514,9 +514,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\002\002-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/002/002-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -530,9 +530,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\003\003-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/003/003-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -546,9 +546,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\003\003-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/003/003-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -562,9 +562,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\003\003-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/003/003-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -578,9 +578,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\003\003-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/003/003-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -594,9 +594,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\004\004-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/004/004-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -610,9 +610,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\004\004-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/004/004-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -626,9 +626,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\004\004-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/004/004-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -642,9 +642,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\004\004-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/004/004-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -658,9 +658,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\005\005-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/005/005-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -674,9 +674,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\005\005-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/005/005-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -690,9 +690,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\005\005-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/005/005-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -706,9 +706,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\005\005-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/005/005-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -722,9 +722,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\006\006-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/006/006-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -738,9 +738,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\006\006-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/006/006-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -754,9 +754,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\006\006-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/006/006-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -770,9 +770,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\006\006-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/006/006-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -786,9 +786,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\007\007-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/007/007-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -802,9 +802,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\007\007-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/007/007-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -818,9 +818,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\007\007-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/007/007-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -834,9 +834,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\007\007-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/007/007-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -850,9 +850,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\008\008-C.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/008/008-C.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -866,9 +866,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\008\008-E.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/008/008-E.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -882,9 +882,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\008\008-Q.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/008/008-Q.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -898,9 +898,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\img\agentes\habilidades\008\008-X.png))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>img/agentes/habilidades/008/008-X.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -914,9 +914,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\js\site.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>js/site.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -930,9 +930,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -946,9 +946,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -962,9 +962,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -978,9 +978,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -994,9 +994,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.rtl.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1010,9 +1010,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1026,9 +1026,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1042,9 +1042,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1058,9 +1058,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1074,9 +1074,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1090,9 +1090,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1106,9 +1106,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1122,9 +1122,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.rtl.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1138,9 +1138,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1154,9 +1154,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1170,9 +1170,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1186,9 +1186,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1202,9 +1202,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1218,9 +1218,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1234,9 +1234,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1250,9 +1250,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.rtl.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1266,9 +1266,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1282,9 +1282,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1298,9 +1298,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1314,9 +1314,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1330,9 +1330,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1346,9 +1346,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1362,9 +1362,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1378,9 +1378,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.rtl.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1394,9 +1394,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.rtl.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1410,9 +1410,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.min.css))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.rtl.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1426,9 +1426,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/css/bootstrap.rtl.min.css.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1442,9 +1442,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.bundle.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1458,9 +1458,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.js.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.bundle.js.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1474,9 +1474,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.bundle.min.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1490,9 +1490,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.bundle.min.js.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1506,9 +1506,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.esm.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1522,9 +1522,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.js.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.esm.js.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1538,9 +1538,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.min.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.esm.min.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1554,9 +1554,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.esm.min.js.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.esm.min.js.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1570,9 +1570,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1586,9 +1586,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.js.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.js.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1602,9 +1602,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.min.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1618,9 +1618,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\js\bootstrap.min.js.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/dist/js/bootstrap.min.js.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1634,9 +1634,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\LICENSE))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/bootstrap/LICENSE</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1650,9 +1650,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1666,9 +1666,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1682,9 +1682,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation-unobtrusive\LICENSE.txt))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation-unobtrusive/LICENSE.txt</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1698,9 +1698,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation/dist/additional-methods.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1714,9 +1714,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.min.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation/dist/additional-methods.min.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1730,9 +1730,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation/dist/jquery.validate.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1746,9 +1746,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation/dist/jquery.validate.min.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1762,9 +1762,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\LICENSE.md))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery-validation/LICENSE.md</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1778,9 +1778,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery/dist/jquery.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1794,9 +1794,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.js))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery/dist/jquery.min.js</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1810,9 +1810,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\dist\jquery.min.map))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery/dist/jquery.min.map</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
@@ -1826,9 +1826,9 @@
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt))">
       <SourceType>Package</SourceType>
-      <SourceId>Valorant</SourceId>
+      <SourceId>BravoSix</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/Valorant</BasePath>
+      <BasePath>_content/BravoSix</BasePath>
       <RelativePath>lib/jquery/LICENSE.txt</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
