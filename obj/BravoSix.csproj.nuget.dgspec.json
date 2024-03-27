@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\etec\\Desktop\\Projeto\\BravoSix\\BravoSix.csproj": {}
+    "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\BravoSix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\etec\\Desktop\\Projeto\\BravoSix\\BravoSix.csproj": {
+    "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\BravoSix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\etec\\Desktop\\Projeto\\BravoSix\\BravoSix.csproj",
+        "projectUniqueName": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\BravoSix.csproj",
         "projectName": "BravoSix",
-        "projectPath": "C:\\Users\\etec\\Desktop\\Projeto\\BravoSix\\BravoSix.csproj",
+        "projectPath": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\BravoSix.csproj",
         "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\etec\\Desktop\\Projeto\\BravoSix\\obj\\",
+        "outputPath": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,5 +1,8 @@
 
 
+using Microsoft.AspNetCore.SignalR;
+using Microsoft.Net.Http.Headers;
+
 namespace BravoSix.Models
 {
     public class Operador

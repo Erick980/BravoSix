@@ -1,11 +1,11 @@
 
 
 .card img {
-  /* background-color: none !important; */
+  background-color: none !important;
 }
 
 .card:hover {
-  border: 3px solid red;
+  border: 3px solid black;
   transform: scale(1.15);
   transition: 1s;
   z-index: 1000;

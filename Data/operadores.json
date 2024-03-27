@@ -4,109 +4,98 @@
     "Nome": "John Price",
     "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
     "Função": "Capitão",
-    "Sexo": [ "Masculino" ] ,
     "Altura": 1.88,
     "Peso": 93,
-    "Imagem": "\\img\\agentes\\001.webp"
+    "Imagem": "\\img\\operadores\\001.webp"
   },
   {
     "Numero": 2,
-    "Nome": "Simon 'Fantasma' Riley",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Nome": "Simon Riley",
+    "Descricao": "Nascido em Manchester, Simon Riley ingressou no Serviço Aéreo Especial e passou a maior parte de sua carreira servindo em diversas missões de curto prazo e executando missões secretas em locais classificados. Tornou-se um especialista em comércio clandestino, focado em sabotagem, emboscadas e infiltrações em áreas negadas e ambientes perigosos. Ghost escondeu sua identidade sob uma máscara de caveira para manter o anonimato no campo.",
     "Função": "Tenente",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\002.webp"
+    "Altura": 1.92,
+    "Peso": 85,
+    "Imagem": "\\img\\operadores\\002.webp"
   },
   {
     "Numero": 3,
-    "Nome": "Kyle 'Gaz' Garrick",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Nome": "Kyle Garrick",
+    "Descricao": "Kyle Garrick se alistou no Exército Britânico em 2008 [2] [3] , servindo no Regimento do Duque de Lancaster, passando quatro anos participando de voos de teste, competições de salto e pontaria antes de passar na seleção para o Serviço Aéreo Especial (SAS) de elite de Sua Majestade , onde atualmente atua como sargento pelo sexto ano. Encarregado da Irlanda do Norte, Bósnia, Turquia, Iraque, Afeganistão e Síria. Garrick passou a maior parte de sua carreira caçando combatentes terroristas. Kyle ganhou as asas de pára-quedas de ouro do Corpo de Fuzileiros Navais dos EUA na Base do Corpo de Fuzileiros Navais Camp Lejeune, na Carolina do Norte, enquanto estava em um anexo de intercâmbio e rotineiramente carregava cargas cruzadas em operações com os homólogos americanos do SAS, os Navy SEALs.",
     "Função": "Sargento",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\003.webp"
+    "Altura": 1.78,
+    "Peso": 78,
+    "Imagem": "\\img\\operadores\\003.webp"
   },
   {
     "Numero": 4,
     "Nome": "Kate Laswell",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Descricao": "Kate Laswell nasceu em Annapolis, Maryland. Laswell acredita que o passado é um prólogo, testemunhando fracassos diplomáticos e militares na guerra contra o terrorismo. A sua arte é em grande parte dedicada a quebrar este ciclo repetitivo. Laswell tem mestrado em análise de inteligência estratégica e estudou linguística do Oriente Próximo na Universidade Americana de Beirute. Ela se formou Summa Cum Laude pela Cornell University com bacharelado em Assuntos Internacionais.",
     "Função": "Informante",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\004.webp"
+    "Altura": 1.72,
+    "Peso": 68,
+    "Imagem": "\\img\\operadores\\004.png"
   },
   {
     "Numero": 5,
-    "Nome": "Nicolau",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Nome": "Nikolai",
+    "Descricao": "Nikolai anteriormente foi soldado do exército russo. O seu envolvimento com o Ocidente começou quando ele foi destacado para proteger a embaixada soviética em Copenhaga. Enquanto esteve lá, expressou a sua insatisfação com a política externa da União Soviética e foi posteriormente recrutado como informante pelo MI6. Mais tarde, ele foi acusado de ser um informante contra os ultranacionalistas, mas essas acusações nunca foram provadas. Depois de deixar o serviço militar, ele se tornou um 'consertador' com valiosas conexões acima e com o submundo.",
     "Função": "Soldado",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\005.webp"
+    "Altura": 1.75,
+    "Peso": 72,
+    "Imagem": "\\img\\operadores\\005.webp"
   },
   {
     "Numero": 6,
     "Nome": "Farah Karim",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Descricao": "Farah é membro fundador e comandante da Força de Libertação do Urziquistão, lutando contra a ocupação estrangeira desde 2010. Ela é conhecida não só por liderar a resistência contra as tropas inimigas, mas também por estabelecer unidades de proteção para combater grupos terroristas em todo o Urziquistão. Sob a liderança de Farah, as milícias civis desempenham um papel fundamental na luta para devolver a soberania à sua população subjugada. Suas forças são compostas por combatentes voluntários masculinos e femininos com limite máximo de idade. Farah não permite que menores de 15 anos participem de combates na linha de frente, mas toda e qualquer pessoa está convidada a passar por treinamento militar e ingressar em sua reserva.",
     "Função": "Soldado",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\006.webp"
+    "Altura": 1.62,
+    "Peso": 52,
+    "Imagem": "\\img\\operadores\\006.webp"
   },
   {
     "Numero": 7,
     "Nome": "Alex Keller",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Descricao": "Não se sabe muito sobre a infância e a história de Alex Keller. Também conhecido pelo indicativo 'Echo 3-1', Alex serviu na Força Delta antes de entregar seu antigo posto e histórico de serviço militar de operações especiais à Divisão de Atividades Especiais da CIA em 2013.",
     "Função": "Soldado",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\007.webp"
+    "Altura": 1.74,
+    "Peso": 70,
+    "Imagem": "\\img\\operadores\\007.webp"
   },
   {
     "Numero": 8,
     "Nome": "Alejandro Vargas",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
-    "Função": "Coronel",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\008.webp"
+    "Descricao": "Alejandro Vargas cresceu em Las Almas ao lado de seu segundo em comando, Rodolfo Parra . Ele admitiu ter matado aula para passar o tempo nas trilhas montanhosas da periferia da cidade, que, na época da campanha, já é esconderijo do Cartel.",
+    "Função": "General",
+    "Altura": 1.79,
+    "Peso": 79,
+    "Imagem": "\\img\\operadores\\008.png"
   },
   {
     "Numero": 9,
     "Nome": "Rodolfo Parra",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Descricao": "Embora não se saiba muito sobre Rudy, ele cresceu em Las Almas e ingressou no Exército Mexicano servindo 20 anos ao lado de Alejandro antes de ser selecionado para ingressar na Fuerza Especiales e Los Vaqueros .",
     "Função": "Soldado",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\009.webp"
+    "Altura": 1.66,
+    "Peso": 52,
+    "Imagem": "\\img\\operadores\\009.png"
   },
   {
     "Numero": 10,
     "Nome": "Shepherd",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Descricao": "O General Shepherd serviu como comandante supremo das forças militares dos EUA durante a Segunda Guerra Civil Russa, incluindo as unidades de Reconhecimento da Força do Corpo de Fuzileiros Navais . Quando Al-Asad executou Al-Fulani , desencadeou uma invasão do Médio Oriente pelos EUA em busca de Al-Asad. Enquanto os fuzileiros navais lutavam na capital de um país não identificado do Médio Oriente, um dispositivo nuclear explodiu e praticamente eliminou toda a força invasora dos EUA. 30.000 fuzileiros navais foram mortos em combate pela explosão, incluindo o capitão 'Deadly' Pelayo , o tenente Vasquez e o sargento Paul Jackson , bem como uma quantidade não confirmada de soldados OpFor .",
     "Função": "General",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\010.webp"
+    "Altura": 1.71,
+    "Peso": 60,
+    "Imagem": "\\img\\operadores\\010.png"
   },
   {
     "Numero": 11,
-    "Nome": "Jhonny 'Soap' MacTavish",
-    "Descricao": "Servindo no 22º Regimento SAS, John Price passou a maior parte de sua carreira lutando nas sombras. Ele foi baleado, capturado, abandonado, explodido, preso, torturado e deixado para morrer. Price é um veterano de operações militares em quase todos os cantos do mundo propensos a conflitos, distinguindo-se por atos de bravura e intrepidez. Suas realizações chegaram ao nível da história regimental.",
+    "Nome": "Jhonny MacTavish",
+    "Descricao": "Nascido na Escócia , no Reino Unido , John MacTavish foi um fã de futebol de longa data , muitas vezes jogando como goleiro. Após seu 18º aniversário, MacTavish juntou-se oficialmente à seleção para o 22º Regimento, um esquadrão de elite especializado em reconhecimento secreto, contra-terrorismo e resgate de reféns. Em 2014, enquanto treinava em Hereford, o avaliador de MacTavish foi o capitão John Price . Reconhecendo suas habilidades naturais, proficiência excepcional e dedicação incansável, Price tornou-se duro e rigoroso com MacTavish para torná-lo o melhor estagiário. MacTavish também foi treinado como atirador de elite e especialista em demolições. Sua notável velocidade e precisão na limpeza de salas e na guerra urbana lhe valeram o apelido de 'Sabonete'.",
     "Função": "Sargento",
-    "Sexo": [ "Masculino" ] ,
-    "Altura": 1.88,
-    "Peso": 93,
-    "Imagem": "\\img\\agentes\\011.webp"
+    "Altura": 1.95,
+    "Peso": 90,
+    "Imagem": "\\img\\operadores\\011.png"
   }
 ]

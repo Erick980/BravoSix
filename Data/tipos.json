@@ -1,19 +1,27 @@
 ﻿[
   {
-    "Nome": "Duelista",
-    "Cor": "#d90007"
+    "Nome": "General",
+    "Cor": "#ba1e1e"
   },
   {
-    "Nome": "Sentinela",
-    "Cor": "#d1c145"
+    "Nome": "Capitão",
+    "Cor": "#265231"
   },
   {
-    "Nome": "Iniciador",
-    "Cor": "#04c928"
+    "Nome": "Tenente",
+    "Cor": "#0b277a"
   },
   {
-    "Nome": "Controlador",
-    "Cor": "#3721ff"
+    "Nome": "Sargento",
+    "Cor": "#4b5953"
+  },
+  {
+    "Nome": "Soldado",
+    "Cor": "#80351f"
+  },
+  {
+    "Nome": "Informante",
+    "Cor": "#03ad7a"
   }
  
 ]
