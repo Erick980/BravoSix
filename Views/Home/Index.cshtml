@@ -12,7 +12,7 @@
 <section class="pt-5 pb-3 text-center container">
     <div class="row">
         <div class="col mx-auto text-white">
-            <h1>Forças Especiais 141</h1>
+            <h1>Membros da Força Tarefa 141</h1>
             <div class="group">
                 <button id="btn-all" class="btn btn-md my-2 text-white bg-dark btn-filter"
                     onclick="filter('all')">
@@ -38,10 +38,10 @@
                 <!-- Card Operador - Inicio -->
                 <div class="col" onclick="window.location = '/Home/Details/@operador.Numero'">
                     <div class="card shadow-sm cursor-pointer @string.Join(' ', operador.Função)">
-                        <img src="@operador.Imagem" class="card-img-top"  alt="" />
+                        <img height="400px" src="@operador.Imagem" class="card-img-top"  alt="" />
                         <div class="card-body">
-                            <p class="card-text mb-0">N° @operador.Numero.ToString("000") </p>
-                            <h3 class="card-title">@operador.Nome</h3>
+                            <p class="card-text text-white mb-0">N° @operador.Numero.ToString("000") </p>
+                            <h3 class="card-title text-white">@operador.Nome</h3>
                             <div class="btn-group">
                                 
                                 
@@ -56,7 +56,7 @@
             }
 
             <div id="zeroOperador" class="col-lg-12 text-center">
-                <h1 class="my-3 text-danger">Nenhum Operador Encontrado</h1>
+                <h1 class="my-3 text-white">Nenhum Operador Encontrado</h1>
             </div>
         </div>
     </div>

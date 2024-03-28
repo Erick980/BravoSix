@@ -18,3 +18,15 @@
 .agent-image {
   height: 600px !important;
 }
+
+.background {
+  background-color: darkgreen;
+}
+
+.card {
+  background-color: darkolivegreen;
+}
+
+.agent-image {
+  background-color: grey;
+}
