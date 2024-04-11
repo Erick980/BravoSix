@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BravoSix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0cf9a0de3b81205ddeef6d496b315253230e1ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("BravoSix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BravoSix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

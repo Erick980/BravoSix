@@ -91,3 +91,34 @@ C:\Users\etec\Desktop\BravoSix\BravoSix\obj\Debug\net8.0\refint\BravoSix.dll
 C:\Users\etec\Desktop\BravoSix\BravoSix\obj\Debug\net8.0\BravoSix.pdb
 C:\Users\etec\Desktop\BravoSix\BravoSix\obj\Debug\net8.0\BravoSix.genruntimeconfig.cache
 C:\Users\etec\Desktop\BravoSix\BravoSix\obj\Debug\net8.0\ref\BravoSix.dll
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\appsettings.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\Data\operadores.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\Data\tipos.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\BravoSix.staticwebassets.runtime.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\BravoSix.exe
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\BravoSix.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\BravoSix.runtimeconfig.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\BravoSix.dll
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\bin\Debug\net8.0\BravoSix.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.RazorAssemblyInfo.cache
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.RazorAssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.sourcelink.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\staticwebassets\msbuild.BravoSix.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\staticwebassets\msbuild.build.BravoSix.props
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BravoSix.props
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BravoSix.props
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\scopedcss\bundle\BravoSix.styles.css
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.dll
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\refint\BravoSix.dll
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\BravoSix.genruntimeconfig.cache
+C:\Users\erick\OneDrive\Área de Trabalho\demonstracao\BravoSix\obj\Debug\net8.0\ref\BravoSix.dll

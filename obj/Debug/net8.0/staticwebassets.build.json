@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j1ETuxEiN5otXC6hsZRf007OcTSlyPr5SSX/ehIX/Xw=",
+  "Hash": "9hYEVfDEeXqbPTmilkeXDvpzfUHMKO1yjyk03OCl7DA=",
   "Source": "BravoSix",
   "BasePath": "_content/BravoSix",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BravoSix\\wwwroot",
       "Source": "BravoSix",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\css\\site.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\favico-32x32.png",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\favico-32x32.png",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/favico-32x32.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favico-32x32.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\favicon-16x16.png",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\favicon-16x16.png",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/favicon-16x16.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon-16x16.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\icone.ico",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\icone.ico",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/icone.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icone.ico"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\001.webp",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\001.webp",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/001.webp",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\001.webp"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\002.webp",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\002.webp",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/002.webp",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\002.webp"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\003.webp",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\003.webp",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/003.webp",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\003.webp"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\004.png",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\004.png",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/004.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\004.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\005.webp",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\005.webp",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/005.webp",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\005.webp"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\006.webp",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\006.webp",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/006.webp",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\006.webp"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\007.webp",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\007.webp",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/007.webp",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\007.webp"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\008.png",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\008.png",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/008.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\008.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\009.png",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\009.png",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/009.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\009.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\010.png",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\010.png",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/010.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\010.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\img\\operadores\\011.png",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\img\\operadores\\011.png",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "img/operadores/011.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\operadores\\011.png"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\js\\site.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BravoSix",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\etec\\Desktop\\BravoSix\\BravoSix\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\erick\\OneDrive\\Área de Trabalho\\demonstracao\\BravoSix\\wwwroot\\",
       "BasePath": "_content/BravoSix",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

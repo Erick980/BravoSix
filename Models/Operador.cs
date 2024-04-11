@@ -1,5 +1,3 @@
-
-
 using Microsoft.AspNetCore.SignalR;
 using Microsoft.Net.Http.Headers;
 
